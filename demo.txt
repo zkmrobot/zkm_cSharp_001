@@ -1,0 +1,2 @@
+1. only demo the git.
+2. plan to use c# project.
